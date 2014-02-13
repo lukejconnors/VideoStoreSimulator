@@ -1,5 +1,6 @@
 VideoStoreSimulator
 ===================
+Author: Luke Connors
 
 There are 14 different classes used to run the simulator.
 
